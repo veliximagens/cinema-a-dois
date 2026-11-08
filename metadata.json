@@ -1,0 +1,6 @@
+{
+  "name": "Cinema a Dois",
+  "description": "Plataforma de cinema particular e transmissão de tela em alta qualidade para casais e amigos assistirem a filmes, séries e vídeos juntos.",
+  "requestFramePermissions": ["display-capture", "microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

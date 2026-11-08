@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@layer utilities {
+  /* Minimalist luxury scrollbar for deep cinema aesthetic */
+  ::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #090608;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #2b111c;
+    border-radius: 9999px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #471a2e;
+  }
+}
